@@ -1,0 +1,86 @@
+{
+  "docs/01_EVIDENCE_REVIEW.md": {
+    "mtime": 1794886538.2983437,
+    "seen": 1794898807.785866,
+    "ast_hash": "53b7c970916ed26bd9feeba2da04dab1",
+    "semantic_hash": "53b7c970916ed26bd9feeba2da04dab1"
+  },
+  "docs/02_CRITICAL_ASSESSMENT.md": {
+    "mtime": 1794886374.1150463,
+    "seen": 1794898807.785871,
+    "ast_hash": "9c46898f4b1b7a7e2e9f71202a2cc14e",
+    "semantic_hash": "9c46898f4b1b7a7e2e9f71202a2cc14e"
+  },
+  "docs/03_ARCHITECTURE_RECOMMENDATION.md": {
+    "mtime": 1794886374.9191742,
+    "seen": 1794898807.785874,
+    "ast_hash": "562bc0f91a6b9e1eaeb6cd83896a0e58",
+    "semantic_hash": "562bc0f91a6b9e1eaeb6cd83896a0e58"
+  },
+  "docs/04_EXPERIMENTAL_ROADMAP.md": {
+    "mtime": 1794886447.514807,
+    "seen": 1794898807.785876,
+    "ast_hash": "8cd96ada9e1ca6444a0bc0983b410ad6",
+    "semantic_hash": "8cd96ada9e1ca6444a0bc0983b410ad6"
+  },
+  "docs/05_IMPLEMENTATION_HANDOFF.md": {
+    "mtime": 1794886110.336928,
+    "seen": 1794898807.785877,
+    "ast_hash": "d3fb6f51028eaae85de8197b5f204527",
+    "semantic_hash": "d3fb6f51028eaae85de8197b5f204527"
+  },
+  "docs/foundation_model_research/01_SIGNAL_PROCESSING_LANDSCAPE.md": {
+    "mtime": 1794897780.6845324,
+    "seen": 1794898807.785878,
+    "ast_hash": "119829a513a735e64ee7b713ec5e50c7",
+    "semantic_hash": "119829a513a735e64ee7b713ec5e50c7"
+  },
+  "docs/foundation_model_research/03_DATASET_AND_PRETRAINING_STRATEGY.md": {
+    "mtime": 1794897829.2923996,
+    "seen": 1794898807.7858791,
+    "ast_hash": "11b9f946b1c05c4eab494ab60a805ad7",
+    "semantic_hash": "11b9f946b1c05c4eab494ab60a805ad7"
+  },
+  "docs/foundation_model_research/04_ARCHITECTURE_OPTIONS.md": {
+    "mtime": 1794897780.683416,
+    "seen": 1794898807.78588,
+    "ast_hash": "b6fe0ae91614c652989ac0a8778cac65",
+    "semantic_hash": "b6fe0ae91614c652989ac0a8778cac65"
+  },
+  "docs/foundation_model_research/05_SELF_SUPERVISED_LEARNING_STRATEGY.md": {
+    "mtime": 1794897780.6840973,
+    "seen": 1794898807.785881,
+    "ast_hash": "c7663e8cff6c629e9b1300e944558d0c",
+    "semantic_hash": "c7663e8cff6c629e9b1300e944558d0c"
+  },
+  "docs/foundation_model_research/06_TRANSFER_LEARNING_EVALUATION.md": {
+    "mtime": 1794897702.3215525,
+    "seen": 1794898807.785882,
+    "ast_hash": "24af0a1112efe59152c51be25bb02f64",
+    "semantic_hash": "24af0a1112efe59152c51be25bb02f64"
+  },
+  "docs/foundation_model_research/07_EXPERIMENTAL_ROADMAP.md": {
+    "mtime": 1794897956.8372056,
+    "seen": 1794898807.785883,
+    "ast_hash": "06a4ed94b371a7e9540858179bb2537a",
+    "semantic_hash": "06a4ed94b371a7e9540858179bb2537a"
+  },
+  "docs/foundation_model_research/08_IMPLEMENTATION_HANDOFF.md": {
+    "mtime": 1794897899.0377953,
+    "seen": 1794898807.7858849,
+    "ast_hash": "776f3764c0b2eaf1d229bf2418437440",
+    "semantic_hash": "776f3764c0b2eaf1d229bf2418437440"
+  },
+  "docs/foundation_model_research/CHANGELOG.md": {
+    "mtime": 1794897965.6985474,
+    "seen": 1794898807.7858849,
+    "ast_hash": "bc6ac77c8994ad9b1c100910a3502d72",
+    "semantic_hash": "bc6ac77c8994ad9b1c100910a3502d72"
+  },
+  "docs/foundation_model_research/02_FOUNDATION_MODEL_PRIOR_ART.md": {
+    "mtime": 1794897780.684875,
+    "seen": 1794898807.785886,
+    "ast_hash": "81b7cbb58bffde20e75e7b6f2e43033d",
+    "semantic_hash": "81b7cbb58bffde20e75e7b6f2e43033d"
+  }
+}
